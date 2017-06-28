@@ -1,0 +1,5 @@
+E:\CDIAlexis\WindowsForms\QuintoLAG\QuintoLAG\bin\Debug\QuintoLAG.dll
+E:\CDIAlexis\WindowsForms\QuintoLAG\QuintoLAG\bin\Debug\QuintoLAG.pdb
+E:\CDIAlexis\WindowsForms\QuintoLAG\QuintoLAG\obj\Debug\QuintoLAG.csprojResolveAssemblyReference.cache
+E:\CDIAlexis\WindowsForms\QuintoLAG\QuintoLAG\obj\Debug\QuintoLAG.dll
+E:\CDIAlexis\WindowsForms\QuintoLAG\QuintoLAG\obj\Debug\QuintoLAG.pdb

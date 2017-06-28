@@ -1,0 +1,8 @@
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\bin\Debug\CATest.exe.config
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\bin\Debug\CATest.exe
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\bin\Debug\CATest.pdb
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\bin\Debug\QuintoLAG.dll
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\bin\Debug\QuintoLAG.pdb
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\obj\Debug\CATest.csprojResolveAssemblyReference.cache
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\obj\Debug\CATest.exe
+E:\CDIAlexis\WindowsForms\QuintoLAG\CATest\obj\Debug\CATest.pdb
